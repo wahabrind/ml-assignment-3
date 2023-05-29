@@ -1,4 +1,4 @@
 interpret==0.4.1
 imblearn==0.0
 joblib==1.2.0
-
+scikit-learn==1.0.2
